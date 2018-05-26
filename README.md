@@ -1,2 +1,2 @@
 # templates
-Liberación par CRLIBRE
+Liberación para CRLIBRE
